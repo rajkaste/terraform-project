@@ -1,0 +1,1 @@
+demo project for terraform hands-on
